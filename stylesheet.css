@@ -47,10 +47,10 @@ body{
 	justify-content: center;
 }
 .image2{
-	display: flex;
-	flex: 0.5;
-	width: 42px;
-	height: 42px;
+	/* display: flex;
+	flex: 0.5; */
+	width: 36px;
+	height: 36px;
 	border-style: solid;
 	border-width: 1px;
 	border-color: black;
